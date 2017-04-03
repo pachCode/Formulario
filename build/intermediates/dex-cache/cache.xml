@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.0_fba10324036781d124ff22eaaae018b36a94e17b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.0_e4ef6c60304445e762524c0f1a251f67f490ada3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.0_1ad93db5b6d09ab57dea29d50d7e41679fecb110/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturopacheco/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_683acbb91cf07ecc18cee7fbccd8ced9ffeaae6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.0_504d5d86569176140ea0bb6fbab76c14ee7a9250/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.0_61c730436211eec73a133e6c643863adc1262e59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.0_bddd3dd8119cbd6dcda2688134eade7ffc490e47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.0_15ead39476f103581985d6d07a205af7adf78ad8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.0_3100e885555d3d906819a04999eaba1ee207ac52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/exploded-aar/com.android.support/design/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.0_56b2ab13a1a69134b33f4e69285d8bc5a6e65667/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc35f76768767bdd32ab8fecf4a0357eca8db4e6">
+        <dex dex="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9bc2db652cec36dd3848efab8b53f51941e787ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.0_ae0a591e3908936d3ae3099e0aec52b65021bf5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.0_e85bfec788128831482c7dd3a71bd11604c2e10d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caddf629337bec4ff1277efc227ec5e6bf23ab16">
+        <dex dex="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a459935f99f0135c9d7c4acae1f74974a7d85825/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/arturopacheco/AndroidStudioProjects/Form1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.0_9670adbb4094e4a415ab598d33e06dd7d57b3786/classes.dex" />
+    </item>
+
+</items>
